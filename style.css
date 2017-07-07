@@ -1,0 +1,78 @@
+header {
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Shrikhand', cursive;
+    padding: 20px;
+    text-align: center;
+    background-image: url('background_image_aruba.jpg');
+    height: 60px;
+    width: auto;
+    border: groove 3px black;
+}
+
+
+/*styling for the about section*/
+
+.about {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Droid Serif', serif;
+}
+
+.dividers, h4 {
+    padding: 0px;
+    margin: 7px;
+    font-size: 20px;
+    font-family: 'Shrikhand', cursive;
+    border: groove 3px black;
+    text-align: center;
+}
+
+.warning {
+    padding: 0px;
+    margin: 0px;
+    color: red;
+    text-align: center;
+}
+
+.subButton {
+    padding: 3px;
+    margin: 3px;
+    font-family: 'Shrikhand', cursive;
+    color: white;
+    font-size: 20px;
+    background-color: green;
+    border: groove 3px #006666;
+    border-radius: 1em;
+}
+
+#personal, #results, #spouseInfo, #spouseResult, #medicalInfo, #medicalResult, #emergencyInfo, #emergencyResult, #legalInfo, #legalResult, #healthInfo, #healthResult, #employerInfo, #employerResult, #financiInfo, #financialResult, #funeralInfo, #funeralResult {
+    padding: 3px;
+    margin: 3px;
+    font-size: 13px;
+    font-weight: bolder;
+    text-align: left;
+    font-family: 'Droid Serif', serif;
+}
+
+.resultsInfo {
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+    background: url('background_image_aruba.jpg');
+    border: 3px solid white;
+    border: groove 3px white;
+}
+
+footer {
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    background-image: url('background_image_aruba.jpg');
+    border: groove 3px black;
+}
